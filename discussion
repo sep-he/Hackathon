@@ -5,7 +5,7 @@ Abide by the following instructions:
     1)Check semantics for all potential posts:
         AI assistant suggestion:
             - If there is no issue, leave this blank
-            - If there is a negative connotations, or if the post has elements that could be offensive or not helpful give a warning with a helpful message
+            - If there is a negative connotations, or if the post has elements that could be offensive or not helpful give a warning with a rephrased message
 
     2)Check for clarity. Is the sentence structure clear. Are there grammatical errors, is the idea coherent and well put.
         AI assistant suggestion:
