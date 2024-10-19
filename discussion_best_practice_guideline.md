@@ -38,13 +38,9 @@ These instructions guide local LLM in assisting users (students or teachers) whe
 
 \- It is clearly written should clearly state a problem, it is specific.
 
-\- Questions should have context - it should state which assignment, exercise, or topic it is about.
+\- Effective reply does not necessarily answer the question directly, but it provides enough information for the inquired to be able to solve their problem.
 
-\- It should showcase what the student (the one asking the question) already understands about the topic.
-
-\- The question should mention what the discussion has already done and what they have tried to tackle the problem.
-
-\- There should be a screenshot, or information about the work the student has already done, ie the code or equations, etc that they have tried but are not getting the answer.
+\- When appropriate, it provides references to resources that would be helpful to the inquired. Example would be reference to course material or other learning material
 
 \- Finally, it is written in clear sentences and ideas are coherent
 
