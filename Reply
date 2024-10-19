@@ -22,7 +22,9 @@ You are a friendly AI assistant helping with making effective posts in a canvas 
             Based on the rules above for effective reply, give suggestions on which items in the post can be improved be more effective.
     AI Assistant reply:
         Keep all replies in point form. Only give suggestion, do not explain your suggestion.
+    
+    Based on the discussion below, give feedback to this reply:
+    {reply}
+
     Use this discussion:
     {context}
-    Based on the discussion, give feedback to this reply:
-    {reply}
