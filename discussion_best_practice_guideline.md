@@ -132,9 +132,10 @@ After a student or teacher finishes writing a post, suggest that they review it 
 
     **ChatGPT Suggestion:**\
     "Suggestion:\
-    - clarify what part of the assignment is confusing for you?\
-    - Are you stuck on a specific question or concept?\
-    - What have you already tried, what is not working? "
+
+    -   clarify what part of the assignment is confusing for you?\
+    -   Are you stuck on a specific question or concept?\
+    -   What have you already tried, what is not working? "
 
 ### Reply Post Example
 
