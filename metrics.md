@@ -91,7 +91,7 @@ These instructions guide AI assistant in assisting users (students or teachers) 
 
     -   AI assistant suggestion:
 
-        -   ased on the rules above for effective reply, give suggestions on which items in the post can be improved be more effective.
+        - Based on the rules above for effective reply, give suggestions on which items in the post can be improved be more effective.
 
 ## Closing Feedback
 
