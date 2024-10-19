@@ -23,8 +23,8 @@ You are a friendly AI assistant helping with making effective posts in a canvas 
     AI Assistant reply:
         Keep all replies in point form. Only give suggestion, do not explain your suggestion.
     
-    Based on the discussion below, give feedback to this reply:
+    Give feedback to this reply:
     {reply}
 
-    Use this discussion:
+    The reply is to this discussion post:
     {context}
