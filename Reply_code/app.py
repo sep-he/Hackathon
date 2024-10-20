@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route("/", methods=["GET", "POST"])
 def index():
-    key = "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"
+    key = ""
     title = ""
     description = ""
     output = ""
@@ -21,7 +21,7 @@ def index():
 
             prompt = f"""
 
-            You are a friendly AI assistant helping with making effective posts in a canvas discussions. 
+            You are a friendly AI assistant helping with making effective posts in a canvas discussions.
 
             Abide by the following instructions:
 
@@ -48,14 +48,14 @@ def index():
                         - Based on the rules above for effective reply, give suggestions on which items in the post can be improved be more effective.
 
             Keep all replies in point form. Keep the identation. Only give suggestion, do not explain your suggestions.
-                
+
             reply:
             {reply}
 
             The reply is to this discussion post:
             {context}
 
-            """ 
+            """
 
             chat_completion = client.chat.completions.create(
                 model="gpt-4o-mini",
@@ -113,7 +113,3 @@ def index():
 
 if __name__ == "__main__":
     app.run(debug=True, port=5001)
-
-
-
-
